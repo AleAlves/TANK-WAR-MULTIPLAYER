@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/aleso/Documents/Visual Studio 2015/Projects/Tank War Multiplayer/Tank War Multiplayer/Content/Sound/impactoSom.wav</SourceFile>
+  <SourceTime>2016-10-14T13:24:32.1344574-03:00</SourceTime>
+  <DestFile>C:/Users/aleso/Documents/Visual Studio 2015/Projects/Tank War Multiplayer/Tank War Multiplayer/Content/bin/Windows/Sound/impactoSom.xnb</DestFile>
+  <DestTime>2016-11-25T15:19:09.8840576-02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T03:36:08-03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T03:36:08-03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

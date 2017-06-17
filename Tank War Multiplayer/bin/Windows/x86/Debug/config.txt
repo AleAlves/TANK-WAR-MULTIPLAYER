@@ -1,0 +1,12 @@
+http://localhost:8080/
+
+http://nodejsserver-nodejsserver.44fs.preview.openshiftapps.com/
+
+http://10.100.14.49:8080/
+
+https://p5mhw1fy.apps.lair.io/
+
+https://p5mhw1fy.apps.lair.io/
+
+http://pipserver.azurewebsites.net
+
